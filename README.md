@@ -38,11 +38,13 @@ Identical Pytorch Implemenation will be uploaded on [taeoh-kim's Github](https:/
 ### 3.2 Generator Networks (network.py)
 
 <p align="center"><img width="100%" src="images/Generator.PNG" /></p>
+
 Image ref: [taeoh-kim's Github](https://github.com/taeoh-kim/Pytorch_DiscoGAN)
 
 ### 3.3 Discriminator Networks (network.py)
 
 <p align="center"><img width="100%" src="images/Discriminator.PNG" /></p>
+
 Image ref: [taeoh-kim's Github](https://github.com/taeoh-kim/Pytorch_DiscoGAN)
 
 ## 4. Database
