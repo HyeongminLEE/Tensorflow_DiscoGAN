@@ -105,7 +105,6 @@ Test results will be saved in `./out_dir`.
 ### [Input A | Output B]
 
 ### Edges & Shoes (25 Epochs)
-15 Epochs (which is in the Paper) will give better results
 
 <p align="center"><img width="100%" src="results/e2s.png" /></p>
 
