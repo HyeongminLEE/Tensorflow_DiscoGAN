@@ -2,7 +2,8 @@
 
 Study Friendly Implementation of DiscoGAN in Tensorflow
 
-More Information: [Original Paper](https://arxiv.org/pdf/1703.05192.pdf)
+Original Paper: [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://arxiv.org/pdf/1703.05192.pdf)
+More Information(in Korean): [Hyeongmin Lee's Blog](https://hyeongminlee.github.io/post/gan005_discogan/)
 
 Identical Pytorch Implemenation will be uploaded on [taeoh-kim's Github](https://github.com/taeoh-kim/Pytorch_DiscoGAN)
 
